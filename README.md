@@ -1,2 +1,2 @@
 # Windows-crasher
-Crashes windows PCs exploiting a bug in error handling
+BSODs windows PCs exploiting a bug in error handling :)
